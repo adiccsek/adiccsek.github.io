@@ -1,0 +1,25 @@
+:root{
+    --primary-color: #556B2F; /* Midnight Blue */
+    --secondary-color: #FF6F61; /* Coral */
+    --accent-color: #BDC3C7; /* Silver */
+    --background-color: #FAF3E0; /* Off-White */
+    --text-color: #333333; /* Charcoal */
+}
+
+#MainPlainText{
+    color: var(--text-color);
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+#MainDiv{
+    background-color: var(--text-color);
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 0 10px #000;
+    min-height: 220px;
+}
+
+body{
+
+}
